@@ -1,2 +1,2 @@
-# Zabbix-Tutorial
-Zabbix4.0的安装，Zabbix4.0添加监控主机，Zabbix4.0添加触发器，Zabbix4.0自定义报警，Zabbix4.0使用grafana自定义图形，Zabbix4.0自定义模板，Zabbix4.0使用percona监控MySQL数据库，Zabbix4.0自动化监控，Zabbix4.0 Agent主动模式，Zabbix4.0版本升级，Zabbix4.0分布式监控， Zabbix4.0性能调优。
+### Zabbix-Tutorial
+Zabbix是一个基于WEB界面的提供分布式系统监视以及网络监视功能的企业级的开源解决方案。 Zabbix能监视各种网络参数，保证服务器系统的安全运营，并提供灵活的通知机制以让系统管理员快速定位/解决存在的各种问题。本教程的长期支持版本Zabbix4.0，主要包括的内容有：Zabbix的安装, 添加监控主机, 添加触发器, 自定义报警, 使用grafana自定义图形, 自定义模板, 使用percona监控MySQL数据库, 自动化监控, Agent主动模式, Zabbix4.0版本升级, 分布式监控, 性能调优等。
