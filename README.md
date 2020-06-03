@@ -11,3 +11,5 @@ Zabbix是一个基于WEB界面的提供分布式系统监视以及网络监视�
 ##### [9. Zabbix4.0 Agent主动模式.md](https://github.com/ThanlonSmith/Zabbix-Tutorial/blob/master/9.Zabbix4.0%20Agent%E4%B8%BB%E5%8A%A8%E6%A8%A1%E5%BC%8F.md)
 ##### [10. Zabbix4.0 版本升级.md](https://github.com/ThanlonSmith/Zabbix-Tutorial/blob/master/10.Zabbix4.0%20%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7.md)
 ##### [11. Zabbix4.0性能调优.md](https://github.com/ThanlonSmith/Zabbix-Tutorial/blob/master/11.Zabbix4.0%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+##### [12. Zabbix4.0分布式监控.md](https://github.com/ThanlonSmith/Zabbix-Tutorial/blob/master/12.Zabbix4.0%E5%88%86%E5%B8%83%E5%BC%8F%E7%9B%91%E6%8E%A7.md)
+##### [13. Zabbix4.0中遇到的问题.md](https://github.com/ThanlonSmith/Zabbix-Tutorial/blob/master/Zabbix4.0%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98.md)
